@@ -13,7 +13,7 @@
 Клонировать репозиторий:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/nifflyar/ai_bcc_repo.git
 ```
 
 Создать виртуальное окружение:
