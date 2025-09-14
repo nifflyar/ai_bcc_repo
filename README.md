@@ -13,7 +13,6 @@
 
 ```bash
 git clone <repo-url>
-cd hackaton
 ```
 
 Создать виртуальное окружение:
